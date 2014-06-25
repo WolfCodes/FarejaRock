@@ -1,8 +1,3 @@
-* [Sobre](#Sobre)
-
-
-
-<a id="Sobre"></a>
 ##Sobre
 ------------------------------------------
 Farejador de Musicas em Python, Inicialmente este simples algoritmo
